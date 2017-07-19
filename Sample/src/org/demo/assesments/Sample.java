@@ -13,6 +13,7 @@ public class Sample {
 	
 	public void displayMessage() {
 		System.out.println("Hello World");
+		System.out.println("Test1");
 	}
 	
 }
